@@ -1,0 +1,5 @@
+Pacientes: 1
+Infectados: 1
+Não infectados: 0
+Percentual de Infectados: 100,00%
+Percentual de Não Infectados: 0,00%

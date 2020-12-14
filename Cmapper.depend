@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1605632396 source:c:\users\clayt\desktop\projetos cb\cmapper\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<locale.h>
+	<dos.h>
+	<windows.h>
+	<conio.h>
+	<ctype.h>
+
+1605555100 source:c:\users\clayt\desktop\projetos cb\cmapper\resource.rc
+
